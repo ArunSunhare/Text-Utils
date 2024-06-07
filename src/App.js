@@ -8,7 +8,7 @@ function App() {
    <Navbar /> */}
    <Navbar title='TextUtils' abouttext='About TextUtils'/>
    <div className="container my-3">
-    <TextForm heading='Enter the text to analyze'/>
+    <TextForm heading='Enter the text to analyze below'/>
    </div>
    
    
